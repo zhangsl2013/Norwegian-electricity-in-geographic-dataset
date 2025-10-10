@@ -3,10 +3,32 @@ This repository is about a geographic dataset for the electricity infrastructure
 
 we present a comprehensive geographic dataset representing the electricity system in Norway. We collect data from multiple authoritative sources, process it into widely accepted formats, and generate interactive maps based on this data. Our dataset includes information for each municipality in Norway for the year 2024, encompassing electricity infrastructure, consumption, renewable and conventional production, main power grid topology, relevant natural resources, and population demographics. This work results in a formatted geographic dataset that integrates diverse informational resources, along with openly released interactive maps. We anticipate that our dataset will alleviate software incompatibilities in data retrieval, and facilitate joint analyses on regional electricity system for energy researchers, stakeholders, and developers.
 
+**Citation for our work**:
+
+Shiliang Zhang, Sabita Maharjan, "Norwegian Electricity in Geographic Dataset (NoreGeo)," _Zenodo_, 2025. https://doi.org/10.5281/zenodo.16794604.
+
 The data can be directly downloaded from Zenodo at https://doi.org/10.5281/zenodo.16794603 
 
 A detailed description of the dataset including data features and number of recordings is also available at Zenodo.
 
-**Citation for our work**:
+**Interactive maps** based on our geographic dataset are publicly avaialbe via ArcGIS Online:
 
-Shiliang Zhang, Sabita Maharjan, "Norwegian Electricity in Geographic Dataset (NoreGeo)," _Zenodo_, 2025. https://doi.org/10.5281/zenodo.16794604.
+[Norwegian solar power](https://uio-no.maps.arcgis.com/apps/mapviewer/index.html?webmap=469df60bcb374f0b997cf7fd516fc3a6)
+
+[Solar panels in the city of Oslo](https://uio-no.maps.arcgis.com/apps/mapviewer/index.html?webmap=045e64206c874c0eb5bb5e1e2e7cd619)
+
+[Wind resource availability](https://uio-no.maps.arcgis.com/apps/mapviewer/index.html?webmap=2321e585a93f46129d196d3ebe7e7a7f)
+
+[Norwegian wind power](https://uio-no.maps.arcgis.com/apps/mapviewer/index.html?webmap=065d48122dc843bcbdff2593dc055cc7)
+
+[Norwegian hydro power](https://uio-no.maps.arcgis.com/apps/mapviewer/index.html?webmap=b636fc5747ec4e7f8c02f1c9af582990)
+
+[Norwegian daily electricity price 2024](https://uio-no.maps.arcgis.com/apps/mapviewer/index.html?webmap=6c80f11c8411479d8b518f86d90c0048)
+
+[Transformers in Norwegian power system](https://uio-no.maps.arcgis.com/apps/mapviewer/index.html?webmap=71ad265a41804be3a66dff39d24d0548)
+
+[Norwegian main power grid](https://uio-no.maps.arcgis.com/apps/mapviewer/index.html?webmap=8e4906551c3346249cfd443ca70507cd)
+
+[Municipality level energy consumption](https://uio-no.maps.arcgis.com/apps/mapviewer/index.html?webmap=f1efdace78c741599b34271749afaf14)
+
+[Norwegian population distribution](https://uio-no.maps.arcgis.com/apps/mapviewer/index.html?webmap=3a5917deab76451e944936d75404234c)
