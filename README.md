@@ -1,4 +1,4 @@
-![My Image](images/my-image.png)
+![My Image](Screenshot of  one of the interactive maps.png)
 
 # Norwegian electricity in geographic dataset (NoreGeo)
 This repository is about a geographic dataset for the electricity infrastructures, power grids, power plants, power production and consumption, and power resources in Norway in 2024. Interactive maps based on our data is also available.
