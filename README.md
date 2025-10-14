@@ -13,7 +13,7 @@ Shiliang Zhang, Sabita Maharjan, Kai Strunz, Jan Christian Bryne, "Norwegian Ele
 
 BibTex:
 @article{zhang2025norwegian,
-  title={Norwegian Electricity in Geographic Dataset ({NoreGeo})},
+  title={Norwegian Electricity in Geographic Dataset (NoreGeo)},
   author={Zhang, Shiliang and Maharjan, Sabita and Strunz, Kai and Bryne, Jan Christian},
   journal={arXiv preprint arXiv:2510.09698},
   year={2025}
@@ -22,6 +22,17 @@ BibTex:
 or
 
 Shiliang Zhang, Sabita Maharjan, "Norwegian Electricity in Geographic Dataset (NoreGeo)," _Zenodo_, 2025. [doi: 10.5281/zenodo.16794604](https://doi.org/10.5281/zenodo.16794604).
+
+BibTex:
+@dataset{zhang_2025_16794604,
+  author={Zhang, Shiliang and Maharjan, Sabita},
+  title={Norwegian Electricity in Geographic Dataset (NoreGeo)},
+  month=September,
+  year=2025,
+  publisher={Zenodo},
+  doi={10.5281/zenodo.16794604},
+  url={https://doi.org/10.5281/zenodo.16794604},
+}
 
 **Interactive maps** based on our geographic dataset are publicly avaialbe via ArcGIS Online:
 
