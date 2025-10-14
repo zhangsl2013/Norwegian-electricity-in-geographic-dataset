@@ -5,7 +5,7 @@ we present a comprehensive geographic dataset representing the electricity syste
 
 **Dataset description:** A detailed description of our dataset is available via our [pre-print](https://arxiv.org/pdf/2510.09698).
 
-**Download:** Our dataset can be directly downloaded from [Zenodo](https://doi.org/10.5281/zenodo.16794604).
+**Download:** Our dataset can be directly downloaded from [Zenodo](https://doi.org/10.5281/zenodo.16794604). We store the dataset in Zenodo due to the limited storage quato in Github.
 
 **Citation for our work**:
 
