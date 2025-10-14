@@ -3,7 +3,13 @@ This repository is about a geographic dataset for the electricity infrastructure
 
 we present a comprehensive geographic dataset representing the electricity system in Norway. We collect data from multiple authoritative sources, process it into widely accepted formats, and generate interactive maps based on this data. Our dataset includes information for each municipality in Norway for the year 2024, encompassing electricity infrastructure, consumption, renewable and conventional production, main power grid topology, relevant natural resources, and population demographics. This work results in a formatted geographic dataset that integrates diverse informational resources, along with openly released interactive maps. We anticipate that our dataset will alleviate software incompatibilities in data retrieval, and facilitate joint analyses on regional electricity system for energy researchers, stakeholders, and developers.
 
+A detailed description of our dataset is available via our [pre-print]([https://doi.org/10.48550/arXiv.2510.09698](https://arxiv.org/pdf/2510.09698)).
+
 **Citation for our work**:
+
+Shiliang Zhang, Sabita Maharjan, Kai Strunz, Jan Christian Bryne, "Norwegian Electricity in Geographic Dataset (NoreGeo)," _arXiv preprint arXiv:2203.08630_ (2022). [doi.org/10.48550/arXiv.2510.09698](https://doi.org/10.48550/arXiv.2510.09698)
+
+or
 
 Shiliang Zhang, Sabita Maharjan, "Norwegian Electricity in Geographic Dataset (NoreGeo)," _Zenodo_, 2025. https://doi.org/10.5281/zenodo.16794604.
 
