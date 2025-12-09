@@ -7,7 +7,7 @@ we present a comprehensive geographic dataset representing the electricity syste
 
 **Download:** Our dataset can be directly downloaded from Zenodo [here](https://doi.org/10.5281/zenodo.16794604). We store the dataset in Zenodo due to the limited storage quato in Github.
 
-**Code for data processing:** We have openly released the codes for data processing during the dataset generation, available at [here](gist.github.com/slzhang-git)
+**Code for data processing:** We have openly released the codes for data processing during the dataset generation, available at [our GitHub Gists](gist.github.com/slzhang-git). Particularly, <script src="https://gist.github.com/slzhang-git/111623cfc55b6604f62e1ebbd6ad1181.js"></script>
 
 **Citation for our work**:
 
