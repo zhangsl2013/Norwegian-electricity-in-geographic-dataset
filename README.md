@@ -7,6 +7,8 @@ we present a comprehensive geographic dataset representing the electricity syste
 
 **Download:** Our dataset can be directly downloaded from Zenodo [here](https://doi.org/10.5281/zenodo.16794604). We store the dataset in Zenodo due to the limited storage quato in Github.
 
+**Code for data processing:** We have openly released the codes for data processing during the dataset generation, available at [here](gist.github.com/slzhang-git)
+
 **Citation for our work**:
 
 Shiliang Zhang, Sabita Maharjan, Kai Strunz, Jan Christian Bryne, "Norwegian Electricity in Geographic Dataset (NoreGeo)," _arXiv preprint arXiv:2510.09698_ (2025). [doi: 10.48550/arXiv.2510.09698](https://doi.org/10.48550/arXiv.2510.09698)
