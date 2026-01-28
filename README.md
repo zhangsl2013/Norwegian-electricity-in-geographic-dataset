@@ -18,6 +18,8 @@ BibTex:<br>
   title={Norwegian Electricity in Geographic Dataset (NoreGeo)},<br>
   author={Zhang, Shiliang and Maharjan, Sabita and Strunz, Kai and Bryne, Jan Christian},<br>
   journal={Descriptor: Norwegian Electricity in Geographic Dataset (NoreGeo)},<br>
+  pages={1-12},<br>
+  doi={10.1109/IEEEDATA.2026.3658039},<br>
   year={2026}<br>
 }
 
