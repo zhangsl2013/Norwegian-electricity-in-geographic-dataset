@@ -3,7 +3,7 @@ This repository is about a geographic dataset for the electricity infrastructure
 
 we present a comprehensive geographic dataset representing the electricity system in Norway. We collect data from multiple authoritative sources, process it into widely accepted formats, and generate interactive maps based on this data. Our dataset includes information for each municipality in Norway for the year 2024, encompassing electricity infrastructure, consumption, renewable and conventional production, main power grid topology, relevant natural resources, and population demographics. This work results in a formatted geographic dataset that integrates diverse informational resources, along with openly released interactive maps. We anticipate that our dataset will alleviate software incompatibilities in data retrieval, and facilitate joint analyses on regional electricity system for energy researchers, stakeholders, and developers.
 
-**Dataset description:** A detailed description of our dataset is available via our [pre-print](https://arxiv.org/pdf/2510.09698).
+**Dataset description:** A detailed description of our dataset is available via our paper published by _IEEE Data Descriptions_ ([link to the paper](https://doi.org/10.1109/IEEEDATA.2026.3658039)).
 
 **Download:** Our dataset can be directly downloaded from Zenodo [here](https://doi.org/10.5281/zenodo.16794604). We store the dataset in Zenodo due to the limited storage quato in Github.
 
@@ -11,14 +11,14 @@ we present a comprehensive geographic dataset representing the electricity syste
 
 **Citation for our work**:
 
-Shiliang Zhang, Sabita Maharjan, Kai Strunz, Jan Christian Bryne, "Norwegian Electricity in Geographic Dataset (NoreGeo)," _arXiv preprint arXiv:2510.09698_ (2025). [doi: 10.48550/arXiv.2510.09698](https://doi.org/10.48550/arXiv.2510.09698)
+Shiliang Zhang, Sabita Maharjan, Kai Strunz, Jan Christian Bryne, "Norwegian Electricity in Geographic Dataset (NoreGeo)," in _IEEE Data Descriptions_ (2026). [10.1109/IEEEDATA.2026.3658039](https://doi.org/10.1109/IEEEDATA.2026.3658039)
 
 BibTex:<br>
 @article{zhang2025norwegian,<br>
   title={Norwegian Electricity in Geographic Dataset (NoreGeo)},<br>
   author={Zhang, Shiliang and Maharjan, Sabita and Strunz, Kai and Bryne, Jan Christian},<br>
-  journal={arXiv preprint arXiv:2510.09698},<br>
-  year={2025}<br>
+  journal={Descriptor: Norwegian Electricity in Geographic Dataset (NoreGeo)},<br>
+  year={2026}<br>
 }
 
 or
